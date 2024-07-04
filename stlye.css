@@ -34,7 +34,7 @@
 }
 .bbs{
   display: flex;
-  width: 79%;
+  width: 79%; 
   margin-left: auto;
   margin-right: auto;
  
@@ -58,4 +58,21 @@
   color: white;
 
 }
+
+element.style {
+  position: relative;
+}
+
+
+.heading{
+  text-align: center;
+
+}
+.ff{
+background-color: mintcream;
+
+padding: 10px;
+
+}
+
 
