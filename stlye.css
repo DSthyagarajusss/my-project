@@ -25,8 +25,8 @@
  
 .mar {
   margin: auto;
-  background-image:url(https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg );
-  
+  background-image:url(https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg);
+  border-radius: 10px;
 }
 .carousel-inner img {
   width: 100%;
@@ -49,6 +49,13 @@
   background-color: white;
   margin-bottom: 50px;
 }
+.btn2{ 
+  padding: 10px;
+  border-radius: 15px;
+  display: flex;
+  margin-left: auto;
+  margin-right:auto ;
+ }
 
 .menu{
   text-align: center;
