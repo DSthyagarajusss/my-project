@@ -1,12 +1,16 @@
 
+body{
+  background-image: linear-gradient( rgb(194, 201, 201), #d0da44 );
+}
+
 .header {
     overflow: hidden;
-    background-color: #9fa38a;
+    background-color: #333;
     padding: 10px 10px;
   }
   .header a {
     float: left;
-    color: black;
+    color: rgb(238, 228, 228);
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -16,7 +20,7 @@
   } 
   .header a:hover {
     background-color: #ddd;
-    color: black;
+    color: rgb(122, 88, 88);
   }
   
   .header-right {
@@ -80,6 +84,47 @@ background-color: mintcream;
 
 padding: 10px;
 
+}
+
+
+.scroll-container {
+  width:80% ; 
+  height: 70%; 
+  overflow: auto; 
+  border: 1px solid #ccc; 
+  padding: 10px;
+  border: none;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+footer {
+  background-color: #333; 
+  color: #fff;
+  padding: 20px;  
+
+}
+.footer-content {
+  max-width: 1200px; 
+  margin: 0 auto;
+}
+
+footer nav ul {
+  list-style-type: none; 
+}
+
+footer nav ul li a{
+  display: inline; 
+  margin-right: 10px;
+}
+footer nav ul li a {
+  color: #fff; 
+  text-decoration: none; 
+  
+  
 }
 
 
