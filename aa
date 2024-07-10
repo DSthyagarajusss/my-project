@@ -15,3 +15,12 @@ https://lh3.googleusercontent.com/A_H15QtlA2XVgK8Q-wqZslKq-rbNSo1pujm9IGMtwtAi-U
 
 
 <svg viewBox="0 0 16 16" fill="none" stroke-linecap="round" stroke-linejoin="round" width="1em" height="1em" font-size="inherit"><path d="M12 1.333h-2a3.333 3.333 0 00-3.333 3.334v2h-2v2.667h2v5.333h2.666V9.334h2L12 6.667H9.333v-2A.667.667 0 0110 4h2V1.333z" stroke="currentColor"></path></svg>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+  <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"></path>
+</svg>
+
+
+
+<a href="https://wa.me/15551234567">Message me on WhatsApp!</a>
